@@ -111,7 +111,7 @@ System Gamelist
          <fontSize>0.035</fontSize>
          <forceUppercase>1</forceUppercase>
          <scrollSound></scrollSound>
-         <alignment>middle</alignment>
+         <alignment>center</alignment>
 	     <horizontalMargin>0.01</horizontalMargin>
 	<lineSpacing>0.9</lineSpacing>   
       </textlist>
